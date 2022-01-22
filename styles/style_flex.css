@@ -91,3 +91,12 @@ a {
   display: flex;
   flex-direction: row;
 }
+
+.symbols_pics {
+  margin-bottom: 30px;
+}
+
+.nav-item.symbols {
+  max-width: 240px;
+  width: 100%;
+}
